@@ -1,7 +1,7 @@
 <h1 align="left">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-    <h2 align="center">Used Technologies</h2>
+    <h2 align="center">Used Technologies and Tools</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
@@ -12,11 +12,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Python" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="VsCode" width="80">
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
         <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80"> -->
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+        
     </div>
 </div>
 
