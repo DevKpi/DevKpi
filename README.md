@@ -16,7 +16,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="VsCode" width="80">
     </div>
-
+<br>
+<br>
+<br>
+<div align="left">
+    <p>- 🔭 I’m currently working on web systems like Control User Panel or other's.</p>
+    <p>- 🔭 - 🌱 I’m currently learning and perfecting about PHP, Tailwind CSS, GSAP and SQL.</p>
+    <p>- 👯 I’m looking to collaborate on web projects.</p>
+</div>
 <!--
 **DevKpi/DevKpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
