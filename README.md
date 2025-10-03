@@ -21,7 +21,7 @@
 <br>
 <div align="left">
     <p>- 🔭 I’m currently working on web systems like Control User Panel or other's.</p>
-    <p>- 🌱 I’m currently learning and perfecting about PHP, Tailwind CSS, GSAP and SQL.</p>
+    <p>- 🌱 I’m currently learning and perfecting about PHP, Tailwind CSS, JS and SQL.</p>
     <p>- 👯 I’m looking to collaborate on web projects.</p>
     <p>- ⚡ What I like to do: I like so much coding, boxeo and play videogames like World of Warcraft.</p>
 </div>
