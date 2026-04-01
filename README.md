@@ -4,13 +4,13 @@
     <h2 align="center">Used Technologies and Tools</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">-->
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80">
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">-->
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
         <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">-->
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
@@ -20,8 +20,8 @@
 <br>
 <br>
 <div align="left">
-    <p>- 🔭 I’m currently working on web systems like Control User Panel or other's.</p>
-    <p>- 🌱 I’m currently learning and perfecting about PHP, Tailwind CSS, JS and SQL.</p>
+    <p>- 🔭 I'm currently working on web and mobile systems like Control User Panel or others for provide many solutions.</p>
+    <p>- 🌱 I’m currently learning and perfecting about PHP, JS, Java and SQL.</p>
     <p>- 👯 I’m looking to collaborate on web projects.</p>
     <p>- ⚡ What I like to do: I like so much coding, boxeo and play videogames like World of Warcraft.</p>
 </div>
