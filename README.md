@@ -14,6 +14,11 @@
         <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">-->
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" alt="Vite" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="80">
         <!--<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="80">-->
     </div>
 <br>
