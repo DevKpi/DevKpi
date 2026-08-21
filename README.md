@@ -27,9 +27,9 @@
 <br>
 <div align="left">
     <p>- 🔭 I'm currently working on web and mobile systems like Control User Panel or others for provide many solutions.</p>
-    <p>- 🌱 I’m currently learning and perfecting about PHP, JS, Java and SQL.</p>
-    <p>- 👯 I’m looking to collaborate on web projects.</p>
-    <p>- ⚡ What I like to do: I like so much coding, boxeo and play videogames like World of Warcraft.</p>
+    <p>- 🌱 I’m currently learning and perfecting about PHP,React, JS, Java, SQL and more.</p>
+    <p>- 👯 I’m looking to collaborate on web & mobile app projects.</p>
+    <p>- ⚡ What I like to do: I like so much resolve, coding, boxeo and play video games like World of Warcraft.</p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
