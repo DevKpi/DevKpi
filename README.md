@@ -11,7 +11,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">-->
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
@@ -25,7 +24,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/putty-original.svg" alt="PuTTy" width="80">
         
         <!--<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="80">-->
-    </div>
+    
 <br>
 <br>
 <br>
