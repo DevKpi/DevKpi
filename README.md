@@ -21,7 +21,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original.svg" alt="Expo" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/putty-original.svg" alt="PuTTy" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="PuTTy" width="80">
         
         <!--<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="80">-->
     
