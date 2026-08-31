@@ -20,6 +20,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" alt="Vite" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original.svg" alt="Expo" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/putty-original.svg" alt="PuTTy" width="80">
+        
         <!--<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="80">-->
     </div>
 <br>
